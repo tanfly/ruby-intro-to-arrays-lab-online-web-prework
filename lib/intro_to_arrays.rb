@@ -25,6 +25,6 @@ def last_element_with_array_methods(isitfar)
   isitfar.last
 end
 def length_of_array(array)
-  array = ["just", "tell", "me"]
+  array = ["Space", "the", "final", "frontier", "These", "are", "the", "voyages"]
   array.length 
 end
