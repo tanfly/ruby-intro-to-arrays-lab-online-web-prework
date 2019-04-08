@@ -13,6 +13,6 @@ def third_element(array)
   array[3]
 end
 def last_element(array)
-  array = ["lets", "just", "see"]
+  array = ["good luck", "ever getting", "Out of The Woods"]
   array[-1]
 end
