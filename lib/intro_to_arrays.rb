@@ -12,3 +12,7 @@ def third_element(array)
   array = ["whoever", "designed this", "has no", "Style"]
   array[3]
 end
+def last_element(array)
+  array = ["lets", "just", "see"]
+  array[-1]
+end
