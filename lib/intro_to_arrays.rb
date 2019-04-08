@@ -9,6 +9,6 @@ def first_element(array)
   array[0]
 end
 def third_element(array)
-  array = ["whoever", "designed this", "has no", "style"]
+  array = ["whoever", "designed this", "has no", "Style"]
   array[3]
 end
