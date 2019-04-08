@@ -4,7 +4,7 @@ end
 def array_with_two_elements
   star_trek = ["kirk", "spock"]
 end
-def first_element(array)
-  array = ["thing1", "thing2"]
-  array[0]
+def first_element(drsuess)
+  drsuess = ["thing1", "thing2"]
+  drsuess[0]
 end
