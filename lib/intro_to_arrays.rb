@@ -16,3 +16,4 @@ def last_element(array)
   array = ["good luck", "ever getting", "Out of The Woods"]
   array[-1]
 end
+def first_element_with_array_methods(array)
