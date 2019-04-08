@@ -20,3 +20,7 @@ def first_element_with_array_methods(array)
   array = ["Thailand", "is great", "I'm sure"]
   array.first
 end
+def last_element_with_array_methods(array)
+  array = ["ugh", "why", "no"]
+  array.last
+end
