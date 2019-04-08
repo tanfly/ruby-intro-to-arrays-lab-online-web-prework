@@ -24,3 +24,7 @@ def last_element_with_array_methods(isitfar)
   isitfar = ["I've never been", "to", "Myanmar"]
   isitfar.last
 end
+def length_of_array(array)
+  array = ["just", "tell", "me"]
+  array.length 
+end
